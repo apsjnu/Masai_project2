@@ -1,0 +1,4 @@
+MemberID,Name,PasswordHash
+1001,Alice Johnson,$2b$12$EXAMPLEHASH1
+1002,Bob Smith,$2b$12$EXAMPLEHASH2
+1003,Carol Lee,$2b$12$EXAMPLEHASH3
